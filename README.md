@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi!
+
+Welcome to my profile.
+
+There's no fancy website, but there are emojis and repos :smile:
+
+I like Rust. It's fun.
+
+:fire: Hottest dumb take: Excel/VBA are underrated workplace CLI wrappers.
 
 <!--
 **nekevss/nekevss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
