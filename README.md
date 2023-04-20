@@ -6,9 +6,15 @@ There's no fancy website, but there are emojis and repos :smile:
 
 I like Rust. It's fun.
 
+---
+
 Favorite Lang: Rust
+
 Languages I'm familiar with: VBA, Rust, JavaScript, TypeScript.
+
 Others that I've played around in: Golang, C, Python.
+
+---
 
 :fire: Hottest dumb take: Excel/VBA are underrated workplace wrappers for CLI tools.
 
