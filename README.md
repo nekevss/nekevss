@@ -2,7 +2,7 @@
 
 Welcome to my profile.
 
-There's no fancy website, but there are emojis and repos :smile:
+~~There's no fancy website~~ ([Actually there is...](https://nekevss.github.io)), but there are emojis and repos :smile:
 
 I like Rust. It's fun.
 
