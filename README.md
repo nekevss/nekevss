@@ -2,21 +2,17 @@
 
 Welcome to my profile.
 
-~~There's no fancy website~~ ([Actually there is...](https://nekevss.github.io)), but there are emojis and repos :smile:
+Feel free to check out my [website](https://nekevss.github.io). :smile:
 
-I like Rust. It's fun.
-
----
-
-Favorite Lang: Rust
-
-Languages I'm familiar with: VBA, Rust, JavaScript, TypeScript.
-
-Others that I've played around in: Golang, C, Python.
+I'm probably working on some portion of the Temporal built-in.
 
 ---
 
-:fire: Hottest dumb take: Excel/VBA are underrated workplace wrappers for CLI tools.
+Programming languages: Rust, JavaScript, TypeScript, Go, VBA, (some Python)
+
+---
+
+:fire: Hottest dumb take: VBA (with Excel) is incredibly useful in a corporate setting and slept on.
 
 <!--
 **nekevss/nekevss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
