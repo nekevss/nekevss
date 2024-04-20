@@ -10,11 +10,11 @@ I'm probably working on some portion of the Temporal built-in.
 
 #### Boa
 
-Boa's an experimental JavaScript engine being written in Rust. I think it's really cool and super fun to work on. Feel free to check it out [here](https://github.com/boa-dev/boa)
+Boa's an experimental JavaScript engine being written in Rust. I think it's really cool and super fun to work on. Feel free to check it out [here](https://github.com/boa-dev/boa).
 
 #### Product Content Desktop App
 
-This project is a tool I developed and maintained for work. It's essentially a staging area/mini 
+This project is a tool I develop and maintain for work. It's essentially a staging area/mini 
 CMS for Staples operations team that was designed to streamline our content process. As of 
 2024-04-19, it's been generally adopted by the ops team and strategy, and has been used to
 quality assure and process content on nearly all products published to any BU for the past
