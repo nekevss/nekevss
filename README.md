@@ -16,10 +16,10 @@ Boa's an experimental JavaScript engine being written in Rust. I think it's real
 
 This project is a tool I develop and maintain for work. It's essentially a staging area/mini 
 CMS for Staples operations team that was designed to streamline our content process. As of 
-2024-04-19, it's been generally adopted by the ops team and strategy, and has been used to
-quality assure and process content on nearly all products published to any BU for the past
-4 years. Oh, it can also generate content based off an internal style guide. So that was
-handy and fun to implement! :smile:
+2024-08-14, it's been generally adopted by the ops team and strategy, and has been used to
+quality assure and process content on nearly all products published to any Staples business
+unit (Staples, Staples Advantage, Quill, Marketplace) for the past 4 years. Oh, it can also
+generate content based off an internal style guide. So that was handy and fun to implement! :smile:
 
 It's also **serverless**! Some compute for more functionality was requested but not receieved, so
 it has no server.
