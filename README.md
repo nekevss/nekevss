@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my profile.
 
-Feel free to check out my [website](https://nekevss.github.io). :smile:
+Feel free to check out my [portfolio site and blog](https://nekevss.github.io). :smile:
 
 I'm probably working on some portion of the Temporal built-in.
 
