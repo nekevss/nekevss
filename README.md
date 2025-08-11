@@ -1,28 +1,20 @@
-## Hi there! Welcome to my profile.
+# Hello internet stranger!
 
-Feel free to check out my [portfolio site and blog](https://nekevss.github.io). :smile:
+Feel free to check out my [site/blog](https://nekevss.github.io), although I don't really post there much :smile:
 
-I'm probably working on some portion of the Temporal built-in.
+I write a lot of Rust amonst other things.
 
 ---
 
-### What am I working on?
+## What am I working on?
 
-#### Boa
+### Boa
 
 Boa's an experimental JavaScript engine being written in Rust. I think it's really cool and super fun to work on. Feel free to check it out [here](https://github.com/boa-dev/boa).
 
-#### Product Content Desktop App
+### temporal_rs
 
-This project is a tool I develop and maintain for work. It's essentially a staging area/mini 
-CMS for Staples operations team that was designed to streamline our content process. As of 
-2024-08-14, it's been generally adopted by the ops team and strategy, and has been used to
-quality assure and process content on nearly all products published to any Staples business
-unit (Staples, Staples Advantage, Quill, Marketplace) for the past 4 years. Oh, it can also
-generate content based off an internal style guide. So that was handy and fun to implement! :smile:
-
-It's also **serverless**! Some compute for more functionality was requested but not receieved, so
-it has no server.
+An engine agnostic implementation of the Temporal date/time built-ins that is used in JavaScript engines like Boa, V8, Keisel, etc.
 
 ---
 
@@ -31,28 +23,3 @@ it has no server.
 Rust, JavaScript, TypeScript, Go, VBA, Python
 
 ---
-
-### :fire: Hottest dumb take
-
-VBA (with Excel) is incredibly useful in a corporate setting and slept on. If you create a tool with a GUI,
-you have to create documentation and train people. If you hand someone and Excel sheet with a button, they
-can automatically use the tool. Perfect for free, quick, one-off CLI tools!
-
-#### Also known as
-
-Please for the love of all that is good, don't use VBA and Excel for your company's actual product. 
-
-<!--
-**nekevss/nekevss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
